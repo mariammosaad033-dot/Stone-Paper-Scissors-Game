@@ -43,6 +43,5 @@ Then choose:
 
 After all rounds, you will see the final result.
 
-Project
 
 This project was made to practice C++ basics and improve my programming skills.
